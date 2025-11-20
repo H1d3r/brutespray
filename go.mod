@@ -1,6 +1,6 @@
 module github.com/x90skysn3k/brutespray
 
-go 1.21.6
+go 1.24.0
 
 require (
 	github.com/emersion/go-imap v1.2.1
@@ -13,7 +13,7 @@ require (
 	github.com/mitchellh/go-vnc v0.0.0-20150629162542-723ed9867aed
 	github.com/pterm/pterm v0.12.79
 	github.com/wenerme/astgo v0.0.0-20230926205800-1b5bc38663fa
-	golang.org/x/crypto v0.19.0
+	golang.org/x/crypto v0.45.0
 )
 
 require (
@@ -37,8 +37,8 @@ require (
 	go.uber.org/atomic v1.6.0 // indirect
 	go.uber.org/multierr v1.5.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect
-	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.17.0 // indirect
-	golang.org/x/term v0.17.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/sync v0.18.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/term v0.37.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 )
